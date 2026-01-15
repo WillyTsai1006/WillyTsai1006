@@ -1,10 +1,10 @@
-# Hi there, I'm {你的名字} 👋
+# Hi there, I'm Willy 👋
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **{你目前正在做的專案或領域}**
 - 🌱 I’m currently learning **{你正在學的新技術}**
-- 💬 Ask me about **{你擅長的語言，如 Python, JavaScript}**
-- 📫 How to reach me: **{你的 Email 或 LinkedIn 連結}**
+- 💬 Ask me about  **Python, C++**
+- 📫 How to reach me: **Willy100693@gmail.com**
 
 ---
 
@@ -15,8 +15,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username={你的GitHubID}&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={你的GitHubID}&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username={WillyTsai1006}&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={WillyTsai1006}&layout=compact&theme=radical)
 
 <!--
 **WillyTsai1006/WillyTsai1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
