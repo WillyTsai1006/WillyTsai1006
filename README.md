@@ -15,8 +15,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Willy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willy&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WillyTsai1006&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillyTsai1006&layout=compact&theme=radical)
 
 <!--
 **WillyTsai1006/WillyTsai1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
