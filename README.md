@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Computer Vision**
-- 🌱 I’m currently learning **backend, data science, ML, DL**
+- 🌱 I’m currently learning **backend, data science, ML, DL, Quant**
 - 💬 Ask me about  **Python, C++**
 - 📫 How to reach me: **Willy100693@gmail.com**
 
