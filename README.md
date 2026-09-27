@@ -1,35 +1,77 @@
-# Hi there, I'm Willy 👋
+Willy Tsai
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Computer Vision**
-- 🌱 I’m currently learning **backend, data science, ML, DL, Quant**
-- 💬 Ask me about  **Python, C++**
-- 📫 How to reach me: **Willy100693@gmail.com**
+Systems · High-Performance Computing · Performance Engineering
 
----
+I am an undergraduate student at National Tsing Hua University, with a primary specialization in Quantitative Finance and a second specialization in Computer Science.
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
----
+My technical interests center on high-performance computing, systems programming, parallel computing, and performance engineering. I am particularly interested in understanding how software interacts with hardware and how system-level design decisions affect performance.
 
-### 📊 GitHub Stats
-![](https://raw.githubusercontent.com/WillyTsai1006/WillyTsai1006/master/profile-summary-card-output/radical/0-profile-details.svg)
-![](https://raw.githubusercontent.com/WillyTsai1006/WillyTsai1006/master/profile-summary-card-output/radical/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/WillyTsai1006/WillyTsai1006/master/profile-summary-card-output/radical/3-stats.svg)
+Areas of Focus
 
-<!--
-**WillyTsai1006/WillyTsai1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High-Performance Computing
 
-Here are some ideas to get you started:
+* Parallel programming
+* Shared-memory and distributed-memory computing
+* GPU computing
+* Performance scalability
+* Benchmarking and experimental analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems Programming
+
+* Linux
+* C / C++
+* Processes and threads
+* Concurrency
+* Memory hierarchy
+* Computer architecture fundamentals
+
+Performance Engineering
+
+* Profiling and bottleneck analysis
+* CPU and GPU performance
+* Cache and memory behavior
+* Latency and throughput analysis
+* Performance measurement methodology
+
+GPU Computing
+
+* CUDA programming
+* GPU execution model
+* Memory coalescing and shared memory
+* Kernel performance analysis
+* CPU–GPU workload comparison
+
+Technical Stack
+
+Languages
+C++ · C · Python
+
+Parallel Computing
+OpenMP · MPI · CUDA
+
+Systems
+Linux · Multithreading · Networking Fundamentals
+
+Development & Performance Tools
+Git · CMake · GDB · Linux performance tools · NVIDIA profiling tools
+
+Current Direction
+
+I am currently concentrating on building deeper expertise in:
+
+Linux / C++ → Parallel Programming → OpenMP / MPI → CUDA → HPC Systems → Distributed & AI Infrastructure
+
+My goal is to develop strong systems intuition and the ability to reason about performance from both the software and hardware perspectives.
+
+Broader Interests
+
+* Distributed Systems
+* AI Infrastructure
+* Low-Latency Systems
+* Computer Architecture
+* Quantitative Computing
+
+Contact
+
+* GitHub: github.com/WillyTsai1006
+* Email: willy100693@gmail.com
